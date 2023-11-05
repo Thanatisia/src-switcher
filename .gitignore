@@ -1,0 +1,4 @@
+# Git ignore files and folders
+
+## Python Cache files and folders
+__pycache__/
